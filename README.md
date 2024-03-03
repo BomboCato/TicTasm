@@ -8,5 +8,5 @@ Numbers are directly linked to cells in the grid which is depicted in the matrix
 [ 4, 5, 6 ] \
 [ 1, 2, 3 ]
 
-### DEMO
-![]()
+## DEMO
+![](https://github.com/BomboCato/TicTasm/blob/main/demo.gif)
